@@ -15,11 +15,11 @@ Incase of missing CSV file program will terminate.
 Program is simple. On startUp control menu loads up.
 ####################################################################
 
-To see whole list of items press '1'
-To see what items are running low press '2'
-To see whats near expiration date press '3'
-To force program update to newest data from warehouseSheet press '4'
-To terminate program press '5'
+To see whole list of items press '1'.
+To see what items are running low press '2'.
+To see whats near expiration date press '3'.
+To force program update to newest data from warehouseSheet press '4'.
+To terminate program press '5'.
 
 ####################################################################
 
